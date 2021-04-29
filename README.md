@@ -15,7 +15,7 @@ Here, we are giving datas collected from different persons.
 
 The details about all steps are clearly explained in the ppt.{mmkppt.pptx}
 
-To run the code:
+To run the Python code:
 
 Open JupyterLab 
 
